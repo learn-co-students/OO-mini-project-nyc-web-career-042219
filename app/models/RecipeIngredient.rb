@@ -9,5 +9,7 @@ attr_reader :ingredient, :recipe
     @@all << self
   end
 
+  
+
 
 end

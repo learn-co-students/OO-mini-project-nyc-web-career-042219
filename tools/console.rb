@@ -16,6 +16,7 @@ cinnamon = Ingredient.new("cinnamon")
 chocolate = Ingredient.new("chocolate")
 flour=Ingredient.new("flour")
 allergykane = Allergy.new(kane,cinnamon)
+allergychristian = Allergy.new(christian,cinnamon)
 
 ingredients_arr = [flour,cinnamon,chocolate]
 
